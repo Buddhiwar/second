@@ -1,0 +1,1050 @@
+body/* body css start here */
+{
+	background-color:none;
+}/* body css end here */
+
+
+
+#page/* id page is css start from here */
+{
+	width:1000px;
+	height:1000px;
+	border:1px solid black;
+	margin:0px auto;
+}/* id page css end hear */ 
+
+#header/* id page is css start from here */ 
+{
+	width:1000px;
+	height:200px;
+	background-color:red;
+	
+}/* id header css end here */
+								
+								#ht/* id ht is css start from here */
+								{
+									width:1000px;
+									height:100px;
+									background-color:yellow;
+								}/* id ht is css end from here */
+								
+								
+										#ht1/* id ht1 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id ht1 is css end from here */
+										
+										
+										#ht2/* id ht2 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id ht2 is css end from here */
+										
+										
+										#ht3/* id ht3 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id ht3 is css end from here */
+										
+										
+										#ht4/* id ht4 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id ht4 is css end from here */
+										
+										
+										#ht5/* id ht5 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id ht5 is css end from here */
+										
+										
+										#ht6/* id ht6 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id ht6 is css end from here */
+										
+										
+										#ht7/* id ht7 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id ht7 is css end from here */
+										
+										
+										#ht8/* id ht8 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id ht8 is css end from here */
+										
+										
+										#ht9/* id ht9 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id ht9 is css end from here */
+										
+										
+										#ht10/* id ht10 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id ht10 is css end from here */
+										
+										
+										
+										
+										#hd1/* id hd1 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id hd1 is css end from here */
+										
+										
+										#hd2/* id hd2 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id hd2 is css end from here */
+										
+										
+										#hd3/* id hd3 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id hd3 is css end from here */
+										
+										
+										#hd4/* id hd4 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id hd4 is css end from here */
+										
+										
+										#hd5/* id hd5 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id hd5 is css end from here */
+										
+										
+										#hd6/* id hd6 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id hd6 is css end from here */
+										
+										
+										#hd7/* id hd7 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id hd7 is css end from here */
+										
+										
+										#hd8/* id hd8 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id hd8 is css end from here */
+										
+										
+										#hd9/* id hd9 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id hd9 is css end from here */
+										
+										
+										#hd10/* id h10 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id hd10 is css end from here */
+								
+										
+								
+								#hd/* id hd is css start from here */
+								{
+									width:1000px;
+									height:100px;
+									background-color:green;
+								}/* id hd is css end from here */
+
+#content/* id content css start here */
+{
+	width:1000px;
+	height:600px;
+	background-color:blue;
+	
+}/* content css end here */
+
+								#c1/* id c1 is css start from here */
+								{
+									width:1000px;
+									height:100px;
+									background-color:red;
+								}/* id c1 is css end from here */
+								
+
+
+
+
+
+
+
+
+
+										#c1a/* id c1a is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c1a is css end from here */
+										
+										
+										#c1b/* id c1b is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c1b is css end from here */
+										
+										
+										#c1c/* id c1c is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c1c is css end from here */
+										
+										
+										#c1d/* id c1d is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c1d is css end from here */
+										
+										
+										#c1e/* id c1e is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c1e is css end from here */
+										
+										
+										#c1f/* id c1f is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c1f is css end from here */
+										
+										
+										#c1g/* id c1g is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c1g is css end from here */
+										
+										
+										#c1h/* id c1h is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c1h is css end from here */
+										
+										
+										#c1i/* id c1i is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c1i is css end from here */
+										
+										
+										#c1j/* id c1j is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c1j is css end from here */
+										
+										
+										
+										
+										
+								#c2/* id c2 is css start from here */
+								{
+									width:1000px;
+									height:100px;
+									background-color:red;
+								}/* id c2 is css end from here */
+								
+								
+										#c2a/* id c2a is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c2a is css end from here */
+										
+										
+										#c2b/* id c2b is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c2b is css end from here */
+										
+										
+										#c2c/* id c2c is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c2c is css end from here */
+										
+										
+										#c2d/* id c2d is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c2d is css end from here */
+										
+										
+										#c2e/* id c2e is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c2e is css end from here */
+										
+										
+										#c2f/* id c2f is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c2f is css end from here */
+										
+										
+										#c2g/* id c2g is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c2g is css end from here */
+										
+										
+										#c2h/* id c2h is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c2h is css end from here */
+										
+										
+										#c2i/* id c2i is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c2i is css end from here */
+										
+										
+										#c2j/* id c2j is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c2j is css end from here */
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+								#c3/* id c3 is css start from here */
+								{
+									width:1000px;
+									height:100px;
+									background-color:red;
+								}/* id c3 is css end from here */
+								
+								
+										#c3a/* id c3a is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c3a is css end from here */
+										
+										
+										#c3b/* id c3b is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c3b is css end from here */
+										
+										
+										#c3c/* id c3c is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c3c is css end from here */
+										
+										
+										#c3d/* id c3d is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c3d is css end from here */
+										
+										
+										#c3e/* id c3e is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c3e is css end from here */
+										
+										
+										#c3f/* id c3f is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c3f is css end from here */
+										
+										
+										#c3g/* id c3g is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c3g is css end from here */
+										
+										
+										#c3h/* id c3h is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c3h is css end from here */
+										
+										
+										#c3i/* id c3i is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c3i is css end from here */
+										
+										
+										#c3j/* id c3j is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c3j is css end from here */
+										
+										
+										
+										#c4/* id c4 is css start from here */
+								{
+									width:1000px;
+									height:100px;
+									background-color:red;
+								}/* id c4 is css end from here */
+								
+								
+										#c4a/* id c4a is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c4a is css end from here */
+										
+										
+										#c4b/* id c4b is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c4b is css end from here */
+										
+										
+										#c4c/* id c4c is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c4c is css end from here */
+										
+										
+										#c4d/* id c4d is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c4d is css end from here */
+										
+										
+										#c4e/* id c4e is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c4e is css end from here */
+										
+										
+										#c4f/* id c4f is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c4f is css end from here */
+										
+										
+										#c4g/* id c4g is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c4g is css end from here */
+										
+										
+										#c4h/* id c4h is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c4h is css end from here */
+										
+										
+										#c4i/* id c4i is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c4i is css end from here */
+										
+										
+										#c4j/* id c4j is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c4j is css end from here */
+										
+										
+										
+										
+										
+										
+								#c5/* id c5 is css start from here */
+								{
+									width:1000px;
+									height:100px;
+									background-color:red;
+								}/* id c5 is css end from here */
+								
+								
+										#c5a/* id c5a is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c5a is css end from here */
+										
+										
+										#c5b/* id c5b is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c5b is css end from here */
+										
+										
+										#c5c/* id c5c is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c5c is css end from here */
+										
+										
+										#c5d/* id c5d is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c5d is css end from here */
+										
+										
+										#c5e/* id c5e is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c5e is css end from here */
+										
+										
+										#c5f/* id c5f is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c5f is css end from here */
+										
+										
+										#c5g/* id c5g is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c5g is css end from here */
+										
+										
+										#c5h/* id c5h is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c5h is css end from here */
+										
+										
+										#c5i/* id c5i is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c5i is css end from here */
+										
+										
+										#c5j/* id c5j is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c5j is css end from here */
+										
+										
+										
+								#c6/* id c6 is css start from here */
+								{
+									width:1000px;
+									height:100px;
+									background-color:red;
+								}/* id c6 is css end from here */
+								
+								
+										#c6a/* id c6a is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c6a is css end from here */
+										
+										
+										#c6b/* id c6b is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c6b is css end from here */
+										
+										
+										#c6c/* id c6c is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c6c is css end from here */
+										
+										
+										#c6d/* id c6d is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c6d is css end from here */
+										
+										
+										#c6e/* id c6e is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c6e is css end from here */
+										
+										
+										#c6f/* id c6f is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c6f is css end from here */
+										
+										
+										#c6g/* id c6g is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c6g is css end from here */
+										
+										
+										#c6h/* id c6h is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c6h is css end from here */
+										
+										
+										#c6i/* id c6i is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:blue;
+											float:left;
+										}/* id c6i is css end from here */
+										
+										
+										#c6j/* id c6j is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:green;
+											float:left;
+										}/* id c6j is css end from here */
+
+#footer/* footer css start here */
+{
+	width:1000px;
+	height:200px;
+	background-color:red;
+	
+}/* footer css end here */					
+
+
+
+
+
+								#ft/* id ht is css start from here */
+								{
+									width:1000px;
+									height:100px;
+									background-color:yellow;
+								}/* id ft is css end from here */
+								
+								
+										#ft1/* id ft1 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id ft1 is css end from here */
+										
+										
+										#ft2/* id ft2 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id ft2 is css end from here */
+										
+										
+										#ft3/* id ft3 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id ft3 is css end from here */
+										
+										
+										#ft4/* id ft4 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id ft4 is css end from here */
+										
+										
+										#ft5/* id ft5 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id ft5 is css end from here */
+										
+										
+										#ft6/* id ft6 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id ft6 is css end from here */
+										
+										
+										#ft7/* id ft7 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id ft7 is css end from here */
+										
+										
+										#ft8/* id ft8 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id ft8 is css end from here */
+										
+										
+										#ft9/* id ft9 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id ft9 is css end from here */
+										
+										
+										#ft10/* id ft10 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id ft10 is css end from here */
+										
+										
+										
+										
+										#fd1/* id fd1 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id fd1 is css end from here */
+										
+										
+										#fd2/* id fd2 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id fd2 is css end from here */
+										
+										
+										#fd3/* id fd3 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id fd3 is css end from here */
+										
+										
+										#fd4/* id fd4 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id fd4 is css end from here */
+										
+										
+										#fd5/* id fd5 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id fd5 is css end from here */
+										
+										
+										#fd6/* id fd6 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id fd6 is css end from here */
+										
+										
+										#fd7/* id fd7 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id fd7 is css end from here */
+										
+										
+										#fd8/* id fd8 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id fd8 is css end from here */
+										
+										
+										#fd9/* id fd9 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:white;
+											float:left;
+										}/* id fd9 is css end from here */
+										
+										
+										#fd10/* id f10 is css start from here */
+										{
+											width:100px;
+											height:100px;
+											background-color:black;
+											float:left;
+										}/* id fd10 is css end from here */
+								
+										
+								
+								#fd/* id fd is css start from here */
+								{
+									width:1000px;
+									height:100px;
+									background-color:green;
+								}/* id fd is css end from here */
